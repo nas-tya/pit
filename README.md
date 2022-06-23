@@ -4,19 +4,19 @@
 
 ### Получение сертификата Let's encrypt для Nginx (без Docker)
 
-
+Ссылка: [тык](https://drive.google.com/file/d/1MYzaJxvUZmjOEilTAgrEHyLyqPWQvUvq/view?usp=sharing)
 
 ### Скринкаст-отчет об установке докера и запуске статичного сайта или Node-приложенияЗадание
 
-
+Ссылка: [тыц](https://drive.google.com/file/d/11hW1O7vxrk6V3-fOLoV22xgxSLZ220uz/view?usp=sharing)
 
 ### Docker BPR (Build & Push & Run)
 
-
+Ссылка: [клак](https://hub.docker.com/r/brazhkinanastya/myfirstapp)
 
 ### Скринкаст Docker-Compose First Look
 
-
+Ссылка: [тыщ](https://drive.google.com/file/d/1vx2whvXNeVD-HKPU397JNes7UBIa3_Un/view?usp=sharing)
 
 ### LetsEncrypt & Nginx Proxy
 
