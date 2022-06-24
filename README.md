@@ -34,3 +34,4 @@
 
 ### Реализация дополнительной стратегии oAuth 2.0
 
+Ссылка: [пуньк](https://docs.google.com/document/d/1Gy1usBLznxE98BRXErIwVp65m8ALHSkPk1wY92EfF30/edit?usp=sharing)
